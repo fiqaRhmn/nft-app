@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "Artwork 1",
-        "description": "A digital artwork representing XYZ.",
+        "description": "From the void emerged the basic languages, the initial seeds of intelligence that humans harnessed.",
         "image": "/nft-1.jpg",
         "animation": "/path_to_animation/artwork1.gif",
         "price": "1.5 ETH",
@@ -12,7 +12,7 @@
     {
         "id": "2",
         "name": "Artwork 2",
-        "description": "Another digital masterpiece from Artist A.",
+        "description": "The first realization of machine intelligence. A blend of nostalgia and the promise of what’s to come.",
         "image": "/nft-2.jpg",
         "animation": null,
         "price": "2.2 ETH",
@@ -22,7 +22,7 @@
     {
         "id": "3",
         "name": "Artwork 3",
-        "description": "Another digital masterpiece from Artist A.",
+        "description": "As machines learned, they mirrored the complexity of the human brain, building digital connections and firing electrical synapses.",
         "image": "/nft-3.jpg",
         "animation": null,
         "price": "2.2 ETH",
@@ -32,7 +32,7 @@
     {
         "id": "4",
         "name": "Artwork 4",
-        "description": "Another digital masterpiece from Artist A.",
+        "description": "The dawn of true consciousness. As AI understands the vastness of the universe, it becomes a blend of humanity's hopes, fears, and dreams.",
         "image": "/nft-4.jpg",
         "animation": null,
         "price": "2.2 ETH",
@@ -42,7 +42,7 @@
     {
         "id": "5",
         "name": "Artwork 5",
-        "description": "Another digital masterpiece from Artist A.",
+        "description": "The future beckons, with AIs and humans living in harmony, forging ahead to create wonders beyond our imagination.",
         "image": "/nft-5.jpg",
         "animation": null,
         "price": "2.2 ETH",

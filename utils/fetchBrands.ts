@@ -12,14 +12,3 @@ export const fetchBrands = async (brandName?: string): Promise<Brand[]> => {
     console.log('brandData',brandData);
     return brandData;
 }
-
-
-// const endpoint = brandName 
-//         ? `http://localhost:3000/api/brands?brand=${brandName}`
-//         : `http://localhost:3000/api/brands`;
-    
-//     const res = await fetch(endpoint);
-
-//     if (!res.ok) {
-//         throw new Error("Failed to fetch brand data");
-//     }export const fetchBrands = async (brandName?: string): Promise<Brand[]> => {

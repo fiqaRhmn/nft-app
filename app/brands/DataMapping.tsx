@@ -40,7 +40,8 @@ function DataMapping({brandData}: Props) {
 
   return (
     <div>
-      <div>
+      
+        {/* Banner */}
         {brandData.map((brand) => (
           <div className='relative'>
             <div className='relative flex flex-col justify-center items-center bg-gray-100 h-44 '>
@@ -65,7 +66,7 @@ function DataMapping({brandData}: Props) {
           </div>
         ))}
           
-      </div>
+      
 
       <div className='m-4'>
         {brandData.map((brand) =>(
