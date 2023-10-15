@@ -1,0 +1,53 @@
+[
+    {
+        "id": "1",
+        "name": "Artwork 1",
+        "description": "A digital artwork representing XYZ.",
+        "image": "/nft-1.jpg",
+        "animation": "/path_to_animation/artwork1.gif",
+        "price": "1.5 ETH",
+        "owner": "0xABC123...def",
+        "brand": "Artists Inc."
+    },
+    {
+        "id": "2",
+        "name": "Artwork 2",
+        "description": "Another digital masterpiece from Artist A.",
+        "image": "/nft-2.jpg",
+        "animation": null,
+        "price": "2.2 ETH",
+        "owner": "0xDEF456...ghi",
+        "brand": "Museum Digital"
+    },
+    {
+        "id": "3",
+        "name": "Artwork 3",
+        "description": "Another digital masterpiece from Artist A.",
+        "image": "/nft-3.jpg",
+        "animation": null,
+        "price": "2.2 ETH",
+        "owner": "0xDEF456...ghi",
+        "brand": "Museum Digital"
+    },
+    {
+        "id": "4",
+        "name": "Artwork 4",
+        "description": "Another digital masterpiece from Artist A.",
+        "image": "/nft-4.jpg",
+        "animation": null,
+        "price": "2.2 ETH",
+        "owner": "0xDEF456...ghi",
+        "brand": "Museum Digital"
+    },
+    {
+        "id": "5",
+        "name": "Artwork 5",
+        "description": "Another digital masterpiece from Artist A.",
+        "image": "/nft-5.jpg",
+        "animation": null,
+        "price": "2.2 ETH",
+        "owner": "0xDEF456...ghi",
+        "brand": "Museum Digital"
+    }
+
+]
